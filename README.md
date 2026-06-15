@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher+🛡️;DevOps+Engineer+⚙️;Linux+Administrator+🐧;Secure+Code+Analysis+🔍;Cloud+Infrastructure+☁️;Building+Secure+Systems+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&amp;weight=700&amp;size=22&amp;pause=1000&amp;color=00FFAA&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Cybersecurity%20Researcher%20%F0%9F%9B%A1%EF%B8%8F%3BDevOps%20Engineer%20%E2%9A%99%EF%B8%8F%3BLinux%20Administrator%20%F0%9F%90%A7%3BSecure%20Code%20Analysis%20%F0%9F%94%8D%3BCloud%20Infrastructure%20%E2%98%81%EF%B8%8F%3BBuilding%20Secure%20Systems%20%F0%9F%9A%80" />
 
 </div>
 
