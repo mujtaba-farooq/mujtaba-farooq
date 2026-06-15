@@ -138,9 +138,9 @@ Status    : Building secure and scalable systems
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-mujtabafarooq254-181717?style=for-the-badge&logo=github)](https://github.com/mujtabafarooq254)
+[![GitHub](https://img.shields.io/badge/GitHub-mujtabafarooq254-181717?style=for-the-badge&logo=github)](https://github.com/mujtaba-farooq)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mujtaba%20Farooq-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mujtaba%20Farooq-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mujtaba-farooq-58ba63226/)
 
 [![Email](https://img.shields.io/badge/Email-mujtabafarooq254@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:mujtabafarooq254@gmail.com)
 
