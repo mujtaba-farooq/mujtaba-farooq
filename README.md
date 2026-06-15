@@ -68,6 +68,28 @@ Status    : Building secure and scalable infrastructure
 
 ---
 
+---
+
+## `$ git remote -v public-repos`
+
+<div align="center">
+
+| Repository | Description | Tech / Area |
+|---|---|---|
+| 🏠 [**mujtaba-farooq**](https://github.com/mujtaba-farooq/mujtaba-farooq) | GitHub profile README | Profile |
+| 🚗 [**Privacy-Preserving Identity-Based Data Sharing Scheme Using Proxy Re-encryption in VANETs**](https://github.com/mujtaba-farooq/Privacy-Preserving-Identity-Based-Data-Sharing-Scheme-Using-Proxy-Re-encryption-in-VANETs) | MS thesis research implementation | Cryptography · VANETs · Jupyter Notebook |
+| 🎯 [**exploiting-metasploitable2-open-ports-and-services**](https://github.com/mujtaba-farooq/exploiting-metasploitable2-open-ports-and-services) | Manual exploitation of vulnerable Metasploitable2 services | Penetration Testing · Metasploit |
+| 🖼️ [**Image-Manipulation-in-Python**](https://github.com/mujtaba-farooq/Image-Manipulation-in-Python) | Basic image manipulation techniques in Python | Python · Jupyter Notebook |
+| 🚘 [**Parking-Spot-Detection-System**](https://github.com/mujtaba-farooq/Parking-Spot-Detection-System) | Parking spot detection using OpenCV image processing | Python · OpenCV · NumPy |
+| ♟️ [**Chess-Game-Agent-Using-Minimax**](https://github.com/mujtaba-farooq/Chess-Game-Agent-Using-Minimax) | Chess game agent using minimax algorithm | Python · AI · Minimax |
+| 🧬 [**Exam-Schedule-Generator**](https://github.com/mujtaba-farooq/Exam-Schedule-Generator) | Exam schedule generator using genetic algorithm | Python · Genetic Algorithm |
+| 🧩 [**GBFS-Astar-Maze-Solver**](https://github.com/mujtaba-farooq/GBFS-Astar-Maze-Solver) | Maze solver using Greedy Best First Search and A* | Python · A* · GBFS |
+| 🔎 [**BFS-DFS-Maze-Solver**](https://github.com/mujtaba-farooq/BFS-DFS-Maze-Solver) | Maze solver using BFS and DFS algorithms | Python · BFS · DFS |
+| 🧠 [**Object-Recognition-in-Images**](https://github.com/mujtaba-farooq/Object-Recognition-in-Images) | CIFAR-10 image classification using CNN and SVM | Python · CNN · SVM |
+| 📊 [**Data-Classification**](https://github.com/mujtaba-farooq/Data-Classification) | Census income data classification using ML algorithms | Python · Logistic Regression · KNN |
+
+</div>
+
 ## `$ cat skills.json`
 
 <div align="center">
