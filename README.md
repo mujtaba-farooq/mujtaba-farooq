@@ -16,7 +16,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/mujtaba-farooq?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS" />
 &nbsp;
-<img src="https://img.shields.io/badge/MS-Cyber%20Security-a371f7?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/MS-Cyber%20Security-a371f7?style=for-the-badge&logo=googlescholar&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
